@@ -1,16 +1,35 @@
 ---
 title: Meet Cordolvar, A Tank
 layout: default
+date: 2018-01-28
 ---
 # What's This All About?
 
 The purpose of this site is to organize a journal of my thoughts and experiences leveling a tank in World of Warcraft in 2018. I will be primarily running random dungeons with a bit of questing here and there.
 
+Things I'm trying to evaluate along the way:
+* How well do easily purchased strength plate heirlooms perform?
+* Which UI modifications help the most, and why?
+* Does any of this even matter in 2018?
+* Can good tanking practices make runs go more smoothly?
+* Do you need to know fight mechanics at all?
+* Will I ever learn my way around all these dungeons?
+
+## Quick Stats
+
+|-----------------|-------------------|-------|
+|                 | Since Last Update | Total |
+|-----------------|------------------:|------:|
+| Deaths          | 1                 | 1     |
+| Dungeons Tanked | 5                 | 5     |
+| Levels Gained   | 5                 | 20    |
+|-----------------|-------------------|-------|
+
 ## What I've Accomplished So Far
 
 Over the past few days, I leveled an undead warrior (that I've named Cordolvar) up to level 15, and acquired plate heirlooms with haste bonuses. I chose haste because at the end game it seems haste is more important than crit. I don't know if that's true at my level, but it's the best guidance I have to go on. The general consensus is that so long as you have strength plate, the crit or haste distinction isn't very important.
 
-Last night I headed into my first handful of dungeons. Overall, they were successful runs. I died once during a Ragefire Chasm run. Early in the dungeon, a pack of trash dropped me suddenly. I thought that perhaps I had <abbr title="Line of Sight">LOS</abbr>'d the healer, or stood in lava, but when I asked if I had dome something silly, the healer replied that it was a mis-click on his part that allowed me to die. At this level, I don't really have a lot of survivability cooldowns. I have Victory Rush, but it wasn't up (that I can remember). I don't normally keep potions on my characters when leveling, but I guess maybe I should from now on, at least until I get a few cooldowns I can rely on. It's possible that maybe I had my back turned to a mob I couldn't see, but I don't think so.
+Last night I headed into my first handful of dungeons. Overall, they were successful runs. I died once during a Ragefire Chasm run. Early in the dungeon, a pack of trash dropped me suddenly. I thought that perhaps I had <abbr title="Line of Sight">LOS</abbr>'d the healer, or stood in lava, but when I asked if I had dome something silly, the healer replied that it was a mis-click on his part that allowed me to die. At this level, I don't really have a lot of survivability cooldowns. I have _Victory Rush_, but it wasn't up (that I can remember). I don't normally keep potions on my characters when leveling, but I guess maybe I should from now on, at least until I get a few cooldowns I can rely on. It's possible that maybe I had my back turned to a mob I couldn't see, but I don't think so.
 
 ## Where I'm Going Next
 
