@@ -1,7 +1,6 @@
 ---
 title: Dungeon Tanking Notes
 permalink: dungeon-tanking-notes/index.html
-layout: default
 ---
 
 <ul>

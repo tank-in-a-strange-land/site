@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Deadmines (VC)
+level_min: 10
 ---
-# Deadmines
-
 ## Foreword
 
 I knew none of the boss tactics going into this dungeon. I tanked using only the basics of "don't stand in the fire" and "try to face the boss away from the group", and my healers never had any issues with any of these fights.

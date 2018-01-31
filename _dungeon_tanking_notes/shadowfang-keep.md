@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Shadowfang Keep (SFK)
+level_min: 11
 ---
-# Shadowfang Keep
-
 ## Baron Ashbury
 
 Forsaken.

@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Blackfathom Deeps (BFD)
+level_min: 15
 ---
-# Blackfathom Deeps
-
 ## Ghamoo-Ra
 
 Turtle.

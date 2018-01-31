@@ -1,11 +1,8 @@
 ---
-layout: default
 title: Wailing Caverns (WC)
+level_min: 10
 ---
 {::options toc_levels="1..4" /}
-
-# Wailing Caverns
-{:.no_toc}
 
 ![Map](https://d1u5p3l4wpay3k.cloudfront.net/wowpedia/6/6c/WorldMap-WailingCaverns.jpg)
 

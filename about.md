@@ -1,18 +1,14 @@
 ---
-#2layout: page
+layout: page
 title: About
 permalink: /about/
 ---
+Tanking notes, UI mods, and the obligatory blog while leveling a protection warrior in World of Warcraft in 2018.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Things I'm trying to evaluate along the way:
+* How well do easily purchased strength plate heirlooms perform?
+* Which UI modifications help the most, and why?
+* Does any of this even matter in 2018?
+* Can good tanking practices make runs go more smoothly?
+* Do you need to know fight mechanics at all?
+* Will I ever learn my way around all these dungeons?

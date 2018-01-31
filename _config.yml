@@ -18,15 +18,14 @@ email: cordolvar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tanking notes and blog while leveling a protection warrior in World of Warcraft
   in 2018.
-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tank-in-a-strange-land.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: tank-in-a-strange-land.github.io
+# github_username: jekyllrb
 # twitter_username: jekyllrb
-github_username:  tank-in-a-strange-land
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -44,7 +43,20 @@ plugins:
 
 collections:
   dungeon_tanking_notes:
-    defaults:
-      layout: default
     output: true
     permalink: dungeon-tanking-notes/:path
+
+header_pages:
+  - ui-mods.md
+  - dungeon-tanking-notes.md
+  - about.md
+
+defaults:
+  - scope:
+      path: "_dungeon_tanking_notes/*"
+    values:
+      layout: page
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
