@@ -1,10 +1,7 @@
 ---
 title: Shadowfang Keep, Blackfathom Deeps, & Wailing Caverns
-layout: default
 date: 2018-01-29
 ---
-# Shadowfang Keep, Blackfathom Deeps, & Wailing Caverns
-
 I only had time for three runs. Interestingly, they were each instances Cordolvar hadn't run yet.
 
 ## Quick Stats
@@ -41,7 +38,7 @@ I reacted too slowly to Thruk's _Fillet Of Flesh_, but luckily my healer wasn't 
 
 This was a long one, with lots of bosses. It was generally boring, since a handful of the bosses have the same abilities. Our poor lone melee DPS was hit with sleep spells at least once on every druid boss. I would have been fuming. I was pleased that the group was willing to do Mutanus The Devourer too, since he's an optional fight, and you have to escort an NPC to start the fight (i.e. it takes a while). However, the gear in WC was pretty good. I didn't get anything better than my heirlooms, but man, if you don't have heirlooms, definitely run WC for gear.
 
-As in BFD, I would have likely been lost in this instance with the group to show me the way. I had a map ready, but didn't use it, I just followed the group. I did notice that the order in which we fought the bosses was different from what I had expected from looking at the map.
+As in BFD, I would have likely been lost in this instance without the group to show me the way. I had a map ready, but didn't use it, I just followed the group. I did notice that the order in which we fought the bosses was different from what I had expected from looking at the map.
 
 ## Random Notes
 * &#x1f44d; I managed to upgrade my boots and belt.

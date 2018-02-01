@@ -1,6 +1,5 @@
 ---
 title: Meet Cordolvar, A Tank
-layout: default
 date: 2018-01-28
 ---
 <div style="float: right; margin-left: 1rem; margin-bottom: 1em;">
@@ -8,7 +7,6 @@ date: 2018-01-28
 <br/>
 <div style="margin: auto; text-align: center;"><small>Cordolvar</small></div>
 </div>
-# What's This All About?
 
 The purpose of this site is to organize a journal of my thoughts and experiences leveling a tank in World of Warcraft in 2018. I will be primarily running random dungeons with a bit of questing here and there.
 
