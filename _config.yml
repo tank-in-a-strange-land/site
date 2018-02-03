@@ -45,6 +45,9 @@ collections:
   dungeon_tanking_notes:
     output: true
     permalink: dungeon-tanking-notes/:path
+  ui_mods:
+    output: true
+    permalink: ui-mods/:path
 
 header_pages:
   - ui-mods.md

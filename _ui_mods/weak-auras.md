@@ -2,8 +2,6 @@
 layout: page
 title: Weak Auras
 ---
-{::options toc_levels="1..4" /}
-
 [Weak Auras on Curseforge](https://www.curseforge.com/wow/addons/weakauras-2)
 
 ## Shield Block

@@ -31,6 +31,6 @@ I'm trying out Tidy Plates: Threat Plates using magenta for mobs that I don't ha
 
 I'm still not sure how much I like TP:TP, but I'm going to keep it around for at least a bit longer.
 
-I added [Clique](https://www.curseforge.com/wow/addons/clique) configurations for _Intercept_, it's probably more useful for zipping ahead in dungeons, but maybe it'll be useful. I also added one for _Taunt_, in case I'm too lazy to click-to-target before I click-to-taunt.
+I added [Clique]({% link _ui_mods/clique.md %}) configurations for _Intercept_, it's probably more useful for zipping ahead in dungeons, but maybe it'll be useful. I also added one for _Taunt_, in case I'm too lazy to click-to-target before I click-to-taunt.
 
 I adjusted my _Victory Rush_ Weak Aura, renaming it to _Impending Victory_ and adjusting the health-based trigger to when Cordolvar is below 85% max health. I changed the sound on the _Shield Slam_ aura to "Robot Blip", and I definitely hear this one much more clearly while in combat. I think I'll try to tweak this one by seeing if it can trigger not only when I have a target, but when I have a target that's within range. <ins>Update: It doesn't appear this is possible with just stock Weak Auras, oh well.</ins>
