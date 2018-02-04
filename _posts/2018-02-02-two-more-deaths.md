@@ -22,7 +22,7 @@ First up was Scarlet Monastery, where I joined a group in progress (uh oh, that'
 
 * &#x1f44d; Got upgrades for my boots and belt.
 * &#x1f44e; Still haven't managed even a short session without dying.
-* &#x1f44d; The _Shield Bash_ passive is very nice!
+* &#x1f44d; The [Shield Slam][shield-slam] passive is very nice!
 
 ### UI Modifications
 
@@ -30,4 +30,7 @@ I've switched from Tidy Plates: Threat Plates to Kui Nameplates. So far I like <
 
 I also tried using some darker colors for threat plates when I have aggro, but I went too dark (I think I did 50/0/50), so I lightened those up a little.
 
-My _Shield Bash_ weak aura now overlaps with the default spell alert triggered by the _Shield Bash_ passive power. Since you can't turn off individual spell alerts in the stock UI, I'll have to compile a list of other spell alerts and reimplement them in Weak Auras. Maybe I can find something on [wago.io](https://wago.io) to get me started.
+My [Shield Slam](http://www.wowdb.com/spells/23922-shield-slam) weak aura now overlaps with the default spell alert triggered by the [Shield Slam][shield-slam-rank-2] passive power. Since you can't turn off individual spell alerts in the stock UI, I'll have to compile a list of other spell alerts and reimplement them in Weak Auras. Maybe I can find something on [wago.io](https://wago.io) to get me started.
+
+{% include wowdb.html %}
+{% include powers.md %}

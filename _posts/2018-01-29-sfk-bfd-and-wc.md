@@ -20,9 +20,9 @@ First up was Shadowfang Keep, for which I had [my notes](/dungeon-tanking-notes/
 
 I didn't lead the group through the whole instance, but I recognized enough of the twists and turns that when I wasn't leading, I already knew which way we were going.
 
-One of the DPS party members really liked to get out there and pull, which just made my job harder, as the groups of mobs would then often get split up. In order to get them back together and on me, I'd have to turn around and/or reposition. So instead of a nice clean _Charge_ followed by _Thunder Clap_, I often had to _Charge_, turn around, _Taunt_ or _Heroic Throw_ the one stray mob, re-position, then _Thunder Clap_. I suspect this DPS party member might have thought he or she was speeding things up, but I'd wager it was a wash. Keeping the mobs grouped together makes AoE more effective for everyone in the party. Sure, I could have asked him or her to stop in `/group`, but it doesn't seem worth the risk of a group member going toxic versus just dealing with the crappy pulls.
+One of the DPS party members really liked to get out there and pull, which just made my job harder, as the groups of mobs would then often get split up. In order to get them back together and on me, I'd have to turn around and/or reposition. So instead of a nice clean [Charge][charge] followed by [Thunder Clap][thunder-clap], I often had to [Charge][charge], turn around, [Taunt][taunt] or [Heroic Throw][heroic-throw] the one stray mob, re-position, then [Thunder Clap][thunder-clap]. I suspect this DPS party member might have thought he or she was speeding things up, but I'd wager it was a wash. Keeping the mobs grouped together makes AoE more effective for everyone in the party. Sure, I could have asked him or her to stop in `/group`, but it doesn't seem worth the risk of a group member going toxic versus just dealing with the crappy pulls.
 
-I advanced to level 22, and gained the _Revenge_ spell.
+I advanced to level 22, and gained the [Revenge][revenge] spell.
 
 ## Blackfathom Deeps
 
@@ -32,7 +32,7 @@ While I had a pretty good handle on the layout of SFK, I was completely lost in 
 2. Face the mob away from the group.
 3. Don't stand in the fire (or whirlwind or ice or lava, etc).
 
-I reacted too slowly to Thruk's _Fillet Of Flesh_, but luckily my healer wasn't even phased. The other melee did back out, but I noticed too late. So I can add "keep an eye on the melee" to my situational awareness checklist.
+I reacted too slowly to Thruk's [Fillet Of Flesh][fillet-of-flesh], but luckily my healer wasn't even phased. The other melee did back out, but I noticed too late. So I can add "keep an eye on the melee" to my situational awareness checklist.
 
 ## Wailing Caverns
 
@@ -44,18 +44,21 @@ As in BFD, I would have likely been lost in this instance without the group to s
 * &#x1f44d; I managed to upgrade my boots and belt.
 * &#x1f44e; My gloves still suck.
 * &#x1f44d; Stockades is now in my list of eligible random dungeons.
-* &#x1f44e; _Revenge_ costs a lot of rage. I'm going to try to use it only when a) it procs and therefore has no cost, or b) when I have three ore more targets in range.
+* &#x1f44e; [Revenge][revenge] costs a lot of rage. I'm going to try to use it only when a) it procs and therefore has no cost, or b) when I have three ore more targets in range.
 * Dungeons, like zones, now scale in level, so Cordolvar could be running Deadmines (or any other dungeon he qualifies for) up until level 60. I'm not sure how I feel about that. On one hand, it will give me a chance to learn them better. On the other hand, some dungeons are more boring than others.
 * Threat is not an issue. At all. Not even a little bit.
 * The random dungeon finder queue is practically instantaneous. I haven't had to wait more than ten seconds.
 
 ### UI Modifications
 
-I added two Weak Auras:
+I added two [Weak Auras]({% link _ui_mods/weak-auras.md %}):
 
-* A texture when I'm below 70% Health and _Shield Block_ is up.
-* A texture when I'm below 80% Health and _Victory Rush_ is up.
+* A texture when I'm below 70% Health and [Shield Block][shield-block] is up.
+* A texture when I'm below 80% Health and [Victory Rush][victory-rush] is up.
 
 So far they're working well.
 
-I had to manually disable threat warnings in Omen, because their automatic disabling of said warnings trigger based on being in _Defensive Stance_, which I won't receive for another forty or so levels. I made a profile, named "low-level tank" for this purpose, so that I won't accidentally use a profile with the warnings disabled on one of my other characters.
+I had to manually disable threat warnings in Omen, because their automatic disabling of said warnings trigger based on being in [Defensive Stance][defensive-stance], which I won't receive for another forty or so levels. I made a profile, named "low-level tank" for this purpose, so that I won't accidentally use a profile with the warnings disabled on one of my other characters.
+
+{% include wowdb.html %}
+{% include powers.md %}

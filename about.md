@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+{% include portrait.html %}
+
 Tanking notes, UI mods, and the obligatory blog while leveling a protection warrior in World of Warcraft in 2018.
 
 Things I'm trying to evaluate along the way:
