@@ -6,6 +6,8 @@ date: 2018-02-02 23:02 -0700
 
 Yep, I died again. On trash in Razorfen Kraul. Either the healer got overwhelmed or stunned or something.
 
+## Quick Stats
+
 |-----------------|-------------------|-------|
 |                 | Since Last Update | Total |
 |-----------------|------------------:|------:|
