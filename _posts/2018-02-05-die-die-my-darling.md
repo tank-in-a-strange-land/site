@@ -2,7 +2,7 @@
 title: Die Die My Darling
 date: 2018-02-05 18:11 -0700
 ---
-Yep, died some more. Once in Maraudon my healer just goofed. Then later on, still in Maraudon, someone in the party wasn't paying attention and pulled an extra pack of mobs that proved to be too much for the healer to keep up with[^1].
+Yep, Cordolvar died some more. Once in Maraudon my healer just goofed. Then later on, still in Maraudon, someone in the party wasn't paying attention and pulled an extra pack of mobs that proved to be too much for the healer to keep up with[^1].
 
 ## Quick Stats
 
@@ -16,7 +16,7 @@ Yep, died some more. Once in Maraudon my healer just goofed. Then later on, stil
 
 ## Progress Made
 
-I started out at the Darkmoon Faire (DMF), since I could do a bunch of the daily quests there for guild reputation. Once I hit friendly, I bought an [Illustrious Guild Tabard](https://www.wowdb.com/items/69209-illustrious-guild-tabard), and hit the dungeon finder. If the DMF is in town, remember that you can ride the carousel there for a one hour buff that increases experience gained by 10%.
+I started out at the Darkmoon Faire (DMF), since I could do a bunch of the daily quests there for guild reputation. Once I hit friendly, I bought an [Illustrious Guild Tabard][illustrious-guild-tabard], and hit the dungeon finder. If the DMF is in town, remember that you can ride the carousel there for a one hour buff that increases experience gained by 10%.
 
 Cordolvar started out in Maraudon: The Wicked Grotto, and the group continued well into Earth Song Falls before one of the DPS left. Thinking that re-queuing us would get us another DPS, I queued us, but sadly, that teleported the group to Scarlet Monastery. Whoops. We completed SM without any problems however, so I've finally got a clean kill on Brother Korloff.
 
