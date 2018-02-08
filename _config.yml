@@ -16,8 +16,7 @@
 title: Tank In A Strange Land
 email: cordolvar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tanking notes and blog while leveling a protection warrior in World of Warcraft
-  in 2018.
+  A journal of leveling a protection warrior in World of Warcraft in 2018.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: tank-in-a-strange-land.github.io
 # github_username: jekyllrb

@@ -28,6 +28,8 @@ dCJViaGAiq7sqvBtqPzcbnxbvMTQUPOOBRu7ur2lA3KA)cOFcrggK0VfzOuQ0GfGHRKdcjoMcCAvwOaT
 
 Trigger when _Shield Slam_ is usable, and the current target is valid.
 
+**Update:** I've since [adapted this Weak Aura]({% link ui-mods-weak-auras-shield-slam.md %}) to integrate better with Blizzard's Spell Alert for [Shield Slam: Rank 2][shield-slam-rank-2], but i haven't updated the string below yet.
+
 <textarea class="wa-textarea" cols="80" rows="10" readonly="true">
 dadodaGAvjAxuv1RvLYCfPMnQUjvPUTQANKYEHDtY(Pk5NePgMQK(nLgmvvgUKCqIIJjIZrvPfQclvvQwmrYYf1trwMk65umvuMSetx5QsQ4zuvCDQSzIQTtvCAP(QKQAAeHVte9zv6YcJwK8ys1jvLWTKuLRru68skhMWXLuP)QkgjGbQHwIps4RSjGmGo9xw)La0hububmqL28sNsFTNaKqvdunPLl3edAjY(kiH(Apbl33BK92wcOvVKxbj0xBvgWazMipWavSpxUvsCa6YTs(ipl(bOdMehUnRkbKX6ufqVqTilxOhPLPuKwzsx)q8MmUSWK27O0I0K1PkM0VBLYUdEx5V9EbvSpgRtvWbggOL77nYGbA1QcqMjMZaYzINjY3yVh1115OGdqot8iKYyZs5TTe4au4judKm6RTkV8RogHu8aKZepovpCakhcovfCUM4hGOuDWlE5hXfFqot8yQcoxt8dCaYKYkP0kqMuwjLwjJ(ApbiNk8eQbs4MfKPk4CnXpG2Pp(EEIbIBffWanbpu7emqFhFnyyyGMGhQbgOVJVgmmmqLwU8w3XxnWa9D81GHHbkl0dWa9D81GHHbkB5byG(o(AWWWav5PAcEOgyG(o(AWWWa1QB26Qad03Xxdgggi5c91wfyG(o(AWWWWa5ul33BKbdKPk4CnXpG2Pp(EEIbkh32Qy1QcqTUvbs5(SCFVr2aTeqIsPxBvc(ZY99gzdyyG6cikvh8Ix(rCXhuR69yMiVOaTeq6wvPxBvgWGwcyG0tf6Vbggi9uc1nmGbTeWWWWWWa5bAjsCMGbaa
 </textarea>
@@ -65,3 +67,6 @@ window.onload = function() {
     }
 }
 </script>
+
+{% include powers.md %}
+{% include wowdb.html %}
