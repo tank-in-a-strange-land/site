@@ -5,15 +5,15 @@ layout: post
 
 <div class="post-nav-links">
   {% if page.next %}
-  <span class="post-nav-link post-nav-link-next">
-    Newer Post<br/>
-    <small><a href="{{page.next.url}}">{{ page.next.title }}</a></small>
-  </span>
+  <a class="post-nav-link post-nav-link-next" href="{{ page.next.url }}">
+    <span class="text">Newer Post</span><br/>
+    <small>{{ page.next.title }}</small>
+  </a>
   {%- endif -%}
   {%- if page.previous -%}
-  <span class="post-nav-link post-nav-link-previous">
-    Older Post<br/>
-    <small><a href="{{page.previous.url}}">{{ page.previous.title }}</a></samm>
-  </span>
+  <a class="post-nav-link post-nav-link-previous" href="{{ page.previous.url }}">
+    <span class="text">Older Post</span><br/>
+    <small>{{ page.previous.title }}</small>
+  </a>
   {% endif %}
 </div>
