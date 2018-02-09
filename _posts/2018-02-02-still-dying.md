@@ -1,10 +1,11 @@
 ---
 title: Still Dying
 date: 2018-02-02 23:02 -0700
+excerpt: Yep, I died again. On trash in Razorfen Kraul. Either the healer got overwhelmed or stunned or something.
 ---
 {% include portrait.html %}
 
-Yep, I died again. On trash in Razorfen Kraul. Either the healer got overwhelmed or stunned or something.
+{{ page.excerpt }}
 
 ## Quick Stats
 

@@ -1,10 +1,11 @@
 ---
 title: Meet Cordolvar, A Tank
 date: 2018-01-28
+excerpt: The purpose of this site is to organize a journal of my thoughts and experiences leveling a tank in World of Warcraft in 2018. I will be primarily running random dungeons with a bit of questing here and there.
 ---
 {% include portrait.html %}
 
-The purpose of this site is to organize a journal of my thoughts and experiences leveling a tank in World of Warcraft in 2018. I will be primarily running random dungeons with a bit of questing here and there.
+{{ page.excerpt }}
 
 Things I'm trying to evaluate along the way:
 * How well do easily purchased strength plate heirlooms perform?

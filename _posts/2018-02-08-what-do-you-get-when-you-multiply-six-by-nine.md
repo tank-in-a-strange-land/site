@@ -1,8 +1,9 @@
 ---
 title: What Do You Get If You Multiply Six By Nine?
 date: 2018-02-08 18:07 -0700
+excerpt: You get 42 of course. Cordolvar's string of deaths is going strong at ten sessions, each with at least one death.
 ---
-You get 42 of course[^1]. Cordolvar's string of deaths is going strong at ten sessions, each with at least one death.
+{{ page.excerpt | replace: "course.","course[^1]." }}
 
 ## Quick Stats
 

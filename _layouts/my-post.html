@@ -1,0 +1,19 @@
+---
+layout: post
+---
+{{ content }}
+
+<div class="post-nav-links">
+  {% if page.next %}
+  <span class="post-nav-link post-nav-link-next">
+    Newer Post<br/>
+    <small><a href="{{page.next.url}}">{{ page.next.title }}</a></small>
+  </span>
+  {%- endif -%}
+  {%- if page.previous -%}
+  <span class="post-nav-link post-nav-link-previous">
+    Older Post<br/>
+    <small><a href="{{page.previous.url}}">{{ page.previous.title }}</a></samm>
+  </span>
+  {% endif %}
+</div>

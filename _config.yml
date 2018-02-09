@@ -65,8 +65,10 @@ defaults:
   - scope:
       path: "_posts/*"
     values:
-      layout: post
+      layout: my-post
   - scope:
       path: "assets/img"
     values:
       image: true
+
+show_excerpts: true

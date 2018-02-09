@@ -1,8 +1,10 @@
 ---
 title: Die Die My Darling
 date: 2018-02-05 18:11 -0700
+excerpt: Yep, Cordolvar died some more. Once in Maraudon my healer just goofed. Then later on, still in Maraudon, someone in the party wasn't paying attention and pulled an extra pack of mobs that proved to be too much for the healer to keep up with.
 ---
-Yep, Cordolvar died some more. Once in Maraudon my healer just goofed. Then later on, still in Maraudon, someone in the party wasn't paying attention and pulled an extra pack of mobs that proved to be too much for the healer to keep up with[^1].
+
+{{ page.excerpt }}[^1]
 
 ## Quick Stats
 
