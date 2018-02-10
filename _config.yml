@@ -55,17 +55,21 @@ header_pages:
 
 defaults:
   - scope:
-      path: "_dungeon_tanking_notes/*"
+      type: pages
     values:
-      layout: page
+      layout: my-page
   - scope:
-      path: "_drafts/*"
-    values:
-      layout: post
-  - scope:
-      type: "posts"
+      type: posts
     values:
       layout: my-post
+  - scope:
+      type: ui_mods
+    values:
+      layout: my-page
+  - scope:
+      type: dungeon_tanking_notes
+    values:
+      layout: my-page
   - scope:
       path: "assets/img"
     values:

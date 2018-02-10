@@ -35,5 +35,4 @@ I added [Clique]({% link _ui_mods/clique.md %}) configurations for [Intercept][i
 
 I adjusted my [Victory Rush][victory-rush] Weak Aura, renaming it to [Impending Victory][impending-victory] and adjusting the health-based trigger to when Cordolvar is below 85% max health. I changed the sound on the _Shield Slam_ aura to "Robot Blip", and I definitely hear this one much more clearly while in combat. I think I'll try to tweak this one by seeing if it can trigger not only when I have a target, but when I have a target that's within range. <ins>Update: It doesn't appear this is possible with just stock Weak Auras, oh well.</ins>
 
-{% include wowdb.html %}
 {% include powers.md %}

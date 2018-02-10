@@ -44,4 +44,3 @@ My idea to [check the combat log for an event indicating that the cooldown for S
 [^2]:By default there would be one second of downtime every other cast, but Cordolvar has enough haste on his gear to make 100% uptime possible right now.
 
 {% include powers.md %}
-{% include wowdb.html %}

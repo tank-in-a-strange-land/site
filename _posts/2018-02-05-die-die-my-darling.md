@@ -50,5 +50,4 @@ I saw a spell description that I want to investigate further: [Revenge Trigger](
 
     > Perfection is attained not when there is nothing more to add, but when there is nothing more to remove.
 
-{% include wowdb.html %}
 {% include powers.md %}

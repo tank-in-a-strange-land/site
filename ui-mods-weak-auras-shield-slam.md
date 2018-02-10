@@ -39,4 +39,3 @@ end
 I set up the aforementioned Weak Aura to display the same texture used by the Blizzard Spell Alert, then I created a separate Weak Aura that plays a sound every time Shield Slam is usable. So far it's working perfectly! I imagine that the Weak Aura probably isn't in exactly the same place as the Blizzard one, but I haven't been able to tell the difference so far.
 
 {% include powers.md %}
-{% include wowdb.html %}

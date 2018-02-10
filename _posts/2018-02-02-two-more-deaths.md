@@ -32,5 +32,4 @@ I also tried using some darker colors for threat plates when I have aggro, but I
 
 My [Shield Slam](http://www.wowdb.com/spells/23922-shield-slam) weak aura now overlaps with the default spell alert triggered by the [Shield Slam][shield-slam-rank-2] passive power. Since you can't turn off individual spell alerts in the stock UI, I'll have to compile a list of other spell alerts and reimplement them in Weak Auras. Maybe I can find something on [wago.io](https://wago.io) to get me started.
 
-{% include wowdb.html %}
 {% include powers.md %}

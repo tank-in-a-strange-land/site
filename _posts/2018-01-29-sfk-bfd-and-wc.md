@@ -60,5 +60,4 @@ So far they're working well.
 
 I had to manually disable threat warnings in Omen, because their automatic disabling of said warnings trigger based on being in [Defensive Stance][defensive-stance], which I won't receive for another forty or so levels. I made a profile, named "low-level tank" for this purpose, so that I won't accidentally use a profile with the warnings disabled on one of my other characters.
 
-{% include wowdb.html %}
 {% include powers.md %}

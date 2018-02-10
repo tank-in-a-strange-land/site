@@ -17,3 +17,5 @@ layout: post
   </a>
   {% endif %}
 </div>
+
+{% include wowdb.html %}

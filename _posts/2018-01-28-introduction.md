@@ -40,4 +40,3 @@ I have a few new dungeons I'll be eligible for next time, so I'm going to try to
 And in case I'm reading this later, apparently VC is an old abbreviation for Deadmines, so-named because the leader of the Defias Brotherhood was Edward Van Cleef, and this prevents confusion with the Dire Maul dungeon.
 
 {% include powers.md %}
-{% include wowdb.html %}

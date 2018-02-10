@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Weak Auras
 ---
 [Weak Auras on Curseforge](https://www.curseforge.com/wow/addons/weakauras-2)
@@ -69,4 +68,3 @@ window.onload = function() {
 </script>
 
 {% include powers.md %}
-{% include wowdb.html %}

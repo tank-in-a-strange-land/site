@@ -33,5 +33,4 @@ I've added a weak aura to display an icon when my health is less than 60% and [L
 
 I've also noticed that the random dungeon finder doesn't queue you for low-level dungeons, even if they do scale to your level. The ranges seem to be about the same as they were before the zone scaling took effect in patch 7.3.5. I'm a little disappointed actually---it would be fun to run Deadmines and other low-level dungeons once in a while, maybe with a reduced chance as your level gets higher. On the bright side I don't have to worry about doing Gnomeregan any more.
 
-{% include wowdb.html %}
 {% include powers.md %}
