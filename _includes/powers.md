@@ -7,6 +7,7 @@
 [inspiring-presence]:https://www.wowdb.com/spells/205484-inspiring-presence
 [intercept]:https://www.wowdb.com/spells/198304-intercept
 [last-stand]:https://www.wowdb.com/spells/12975-last-stand
+[renewed-fury]:http://www.wowdb.com/spells/202288-renewed-fury
 [revenge]:https://www.wowdb.com/spells/6572-revenge
 [shield-block]:https://www.wowdb.com/spells/2565-shield-block
 [shield-slam]:https://www.wowdb.com/spells/231834-shield-slam
