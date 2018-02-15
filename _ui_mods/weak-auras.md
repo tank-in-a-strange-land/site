@@ -3,6 +3,8 @@ title: Weak Auras
 ---
 [Weak Auras on Curseforge](https://www.curseforge.com/wow/addons/weakauras-2)
 
+***NOTE:*** A lot of these are out of date. I'll try to get them updated soon. -- 2018-02-14.
+
 ## Shield Block
 
 Trigger when health is < 70% and _Shield Block_ is usable. Plays "Robot Blip" when triggered.
