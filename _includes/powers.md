@@ -15,6 +15,8 @@
 [taunt]:https://www.wowdb.com/spells/355-taunt
 [thunder-clap]:https://www.wowdb.com/spells/6343-thunder-clap
 [victory-rush]:https://www.wowdb.com/spells/34428-victory-rush
+[shield-wall]:http://www.wowdb.com/spells/871-shield-wall
+[battle-cry]:http://www.wowdb.com/spells/1719-battle-cry
 
 <!-- other -->
 [fillet-of-flesh]:https://www.wowdb.com/spells/149913-fillet-of-flesh

@@ -49,8 +49,6 @@ My UI seems to be in a pretty good place. I still want to tweak how my Shield Bl
 
 #### Footnotes
 
-{:.footnotes}
-
 [^1]:It's possible he or she was in survival spec, and therefore didn't have Misdirection, but I didn't check.
 [^2]:Yetimus appeared as an elite of Cordolvar's level plus two.
 

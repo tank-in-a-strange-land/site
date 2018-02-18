@@ -24,3 +24,7 @@ Some random things that happened.
 Where I talk about UI mods.
 
 {% include powers.md %}
+
+#### Footnotes
+
+Delete if there aren't any.

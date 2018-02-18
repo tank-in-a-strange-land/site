@@ -46,6 +46,8 @@ I tweaked a number of my weak auras. I split my Shield Block WA so its only on t
 
 {% include powers.md %}
 
+#### Footnotes
+
 [^1]:Beast Mastery and Marksmanship hunters have [Counter Shot](http://www.wowdb.com/spells/147362-counter-shot), while Survival hunters have [Muzzle](http://www.wowdb.com/spells/187707-muzzle)
 
 [^2]:Indeed they do, see [Counterspell](http://www.wowdb.com/spells/2139-counterspell).
