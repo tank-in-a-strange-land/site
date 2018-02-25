@@ -30,7 +30,11 @@ function level () {
 }
 
 
-find "${STATS_FILENAME}" -mmin +60 &> /dev/null || refresh-stats
+find "$(dirname "${STATS_FILENAME}")" \
+     -name "$(basename "${STATS_FILENAME}")" \
+     -mmin "-60" \
+    | grep -q "$(basename "${STATS_FILENAME}")" \
+    || refresh-stats
 
 printf '
     |-----------------|-------------------|-------|
