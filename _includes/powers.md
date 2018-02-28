@@ -1,4 +1,5 @@
 <!-- warrior -->
+[berserker-rage]:http://www.wowdb.com/spells/18499-berserker-rage
 [charge]:https://www.wowdb.com/spells/100-charge
 [defensive-stance]:https://www.wowdb.com/spells/71-defensive-stance
 [heroic-throw]:https://www.wowdb.com/spells/57755-heroic-throw
