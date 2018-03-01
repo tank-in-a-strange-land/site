@@ -37,11 +37,12 @@ find "$(dirname "${STATS_FILENAME}")" \
     || refresh-stats
 
 printf '
-    |-----------------|-------------------|-------|
-    |                 | Since Last Update | Total |
-    |-----------------|-------------------|-------|
-    | Deaths          |                   | %d    |
-    | Dungeons Tanked |                   | %d    |
-    | Levels Gained   |                   | %d    |
-    |-----------------|-------------------|-------|
+|----------------------------------|-------------------|-------|
+|                                  | Since Last Update | Total |
+|----------------------------------|-------------------|-------|
+| Deaths                           |                   | %d    |
+| Dungeons Tanked                  |                   | %d    |
+| Dungeons Tanked Since Last Death |                   |       |
+| Levels Gained                    |                   | %d    |
+|----------------------------------|-------------------|-------|
 ' $(deaths) $(dungeons-run) $(level)
