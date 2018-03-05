@@ -18,7 +18,7 @@ I had a ton of fun running Blackrock Depths. Cordolvar still died, but who cares
 
 The first random dungeon was Blackrock Depths: Detention center. Cordolvar had never been there before, and so there were a great number of quests to be done. Usually Dungeon Finder groups skip the first five of seven bosses, but luckily this group was game to start at the beginning and do them all.
 
-We had a miscommunication at the start, and the party accidentally separated. Our poor healer wasn't able to keep up, and so Cordolvar took a dirt nap. After that we stuck together, and the healer did an amazing job, keeping Cordolvar alive through a great number of tough fights, and an equally great number of blunders of my part.
+We had a miscommunication at the start, and the party accidentally separated. Our poor healer wasn't able to heal two split-up groups at once, and so Cordolvar took a dirt nap. After that we stuck together, and the healer did an amazing job, keeping Cordolvar alive through a great number of tough fights, and an equally great number of blunders of my part.
 
 The party had a lot of trouble finding our way around. It didn't help that I led us to Bael'Gar right off of the bat (Bael'Gar is usually the fifth boss fought). It took us a good while to figure out how to find Houndmaster Grebmar, and I had to lookup how to get all of the relic keys (which while we got, we never had time to open all twelve).
 

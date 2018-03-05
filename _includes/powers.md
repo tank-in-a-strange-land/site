@@ -1,7 +1,10 @@
 <!-- warrior -->
+[battle-cry]:http://www.wowdb.com/spells/1719-battle-cry
 [berserker-rage]:http://www.wowdb.com/spells/18499-berserker-rage
 [charge]:https://www.wowdb.com/spells/100-charge
 [defensive-stance]:https://www.wowdb.com/spells/71-defensive-stance
+[devastate]:https://www.wowdb.com/spells/20243-devastate
+[devastator]:https://www.wowdb.com/spells/236279-devastator
 [heroic-throw]:https://www.wowdb.com/spells/57755-heroic-throw
 [ignore-pain]:https://www.wowdb.com/spells/190456-ignore-pain
 [impending-victory]:https://www.wowdb.com/spells/202168-impending-victory
@@ -13,11 +16,10 @@
 [shield-block]:https://www.wowdb.com/spells/2565-shield-block
 [shield-slam]:https://www.wowdb.com/spells/231834-shield-slam
 [shield-slam-rank-2]:https://www.wowdb.com/spells/231834-shield-slam
+[shield-wall]:http://www.wowdb.com/spells/871-shield-wall
 [taunt]:https://www.wowdb.com/spells/355-taunt
 [thunder-clap]:https://www.wowdb.com/spells/6343-thunder-clap
 [victory-rush]:https://www.wowdb.com/spells/34428-victory-rush
-[shield-wall]:http://www.wowdb.com/spells/871-shield-wall
-[battle-cry]:http://www.wowdb.com/spells/1719-battle-cry
 
 <!-- other -->
 [fillet-of-flesh]:https://www.wowdb.com/spells/149913-fillet-of-flesh
