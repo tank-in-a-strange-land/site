@@ -17,6 +17,7 @@
 [shield-slam]:https://www.wowdb.com/spells/231834-shield-slam
 [shield-slam-rank-2]:https://www.wowdb.com/spells/231834-shield-slam
 [shield-wall]:http://www.wowdb.com/spells/871-shield-wall
+[spell-reflection]:https://www.wowdb.com/spells/23920-spell-reflection
 [taunt]:https://www.wowdb.com/spells/355-taunt
 [thunder-clap]:https://www.wowdb.com/spells/6343-thunder-clap
 [victory-rush]:https://www.wowdb.com/spells/34428-victory-rush
