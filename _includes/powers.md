@@ -6,6 +6,7 @@
 [devastate]:https://www.wowdb.com/spells/20243-devastate
 [devastator]:https://www.wowdb.com/spells/236279-devastator
 [heroic-throw]:https://www.wowdb.com/spells/57755-heroic-throw
+[heroic-leap]:https://www.wowdb.com/spells/52174-heroic-leap
 [ignore-pain]:https://www.wowdb.com/spells/190456-ignore-pain
 [impending-victory]:https://www.wowdb.com/spells/202168-impending-victory
 [inspiring-presence]:https://www.wowdb.com/spells/205484-inspiring-presence
