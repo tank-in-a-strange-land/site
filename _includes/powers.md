@@ -1,12 +1,14 @@
 <!-- warrior -->
+[anger-management]:https://www.wowdb.com/spells/152278-anger-management
 [battle-cry]:http://www.wowdb.com/spells/1719-battle-cry
 [berserker-rage]:http://www.wowdb.com/spells/18499-berserker-rage
 [charge]:https://www.wowdb.com/spells/100-charge
 [defensive-stance]:https://www.wowdb.com/spells/71-defensive-stance
 [devastate]:https://www.wowdb.com/spells/20243-devastate
 [devastator]:https://www.wowdb.com/spells/236279-devastator
-[heroic-throw]:https://www.wowdb.com/spells/57755-heroic-throw
+[heavy-repercussions]:https://www.wowdb.com/spells/203177-heavy-repercussions
 [heroic-leap]:https://www.wowdb.com/spells/52174-heroic-leap
+[heroic-throw]:https://www.wowdb.com/spells/57755-heroic-throw
 [ignore-pain]:https://www.wowdb.com/spells/190456-ignore-pain
 [impending-victory]:https://www.wowdb.com/spells/202168-impending-victory
 [inspiring-presence]:https://www.wowdb.com/spells/205484-inspiring-presence
