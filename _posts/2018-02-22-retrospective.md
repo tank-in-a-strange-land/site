@@ -8,7 +8,7 @@ As Cordolvar has now reached level 60 and is headed to Outlands and Northrend, I
 
 Way back in my [first post]({% link _posts/2018-01-28-introduction.md %}), I listed a number of questions I wanted to answer:
 
-How well do easily purchased strength plate heirlooms perform?
+Is the performance of easily purchased strength plate heirlooms adequate?
 : *Yes. Without a doubt.* I asked several healers that I ran dungeons with, and they all said they had no trouble healing me. While I did die a fair number of times, I have no reason to think the number of deaths experienced was unusually high.
 
   To be clear, easily purchased to me means purchasable from either the vendors in Ironforge, Undercity, your guild's vendor. Cordolvar has:

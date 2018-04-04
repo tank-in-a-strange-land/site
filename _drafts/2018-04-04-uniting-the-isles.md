@@ -1,5 +1,5 @@
 ---
-date: 2018-04-04 11:08:12 -0600
+date: 2018-04-04 22:08:12 -0600
 title: Uniting the Broken Isles
 ---
 Cordolvar plays diplomat and attempts to unite the Broken Isles.
