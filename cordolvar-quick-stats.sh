@@ -4,12 +4,15 @@
     . ~/.auth/bnet.sh
 }
 
-STATS_FILENAME="$HOME/tmp/cordolvar-stats.json"
+REALM=${REALM:-thrall}
+CHAR=${CHAR:-cordolvar}
+STATS_FILENAME="$HOME/tmp/${REALM,,}-${CHAR,,}-stats.json"
+MAX_LEVEL=110
 
 function refresh-stats () {
     curl -s \
          -o "${STATS_FILENAME}.tmp" \
-         "https://us.api.battle.net/wow/character/thrall/cordolvar?fields=statistics&locale=en_US&apiKey=$BNET_API_KEY" \
+         "https://us.api.battle.net/wow/character/$REALM/$CHAR?fields=statistics&locale=en_US&apiKey=$BNET_API_KEY" \
         && mv "${STATS_FILENAME}.tmp" "$STATS_FILENAME"
 }
 
@@ -40,9 +43,15 @@ printf '
 |----------------------------------|-------------------|-------|
 |                                  | Since Last Update | Total |
 |----------------------------------|-------------------|-------|
-| Deaths                           |                   | %d    |
-| Dungeons Tanked                  |                   | %d    |
+| Deaths                           |                   | %5d |
+| Dungeons Tanked                  |                   | %5d |
 | Dungeons Tanked Since Last Death |                   |       |
-| Levels Gained                    |                   | %d    |
-|----------------------------------|-------------------|-------|
-' $(deaths) $(dungeons-run) $(level)
+' $(deaths) $(dungeons-run)
+
+if [[ $(level) -lt $MAX_LEVEL ]]; then
+    printf '| Levels Gained                    |                   | %5d |
+' $(level)
+fi
+
+printf '|----------------------------------|-------------------|-------|
+'
